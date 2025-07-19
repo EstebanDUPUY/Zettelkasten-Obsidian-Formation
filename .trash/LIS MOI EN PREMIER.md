@@ -1,0 +1,1 @@
+Bonjour/Bonsoir. Ceci est un Zettelkasten.
