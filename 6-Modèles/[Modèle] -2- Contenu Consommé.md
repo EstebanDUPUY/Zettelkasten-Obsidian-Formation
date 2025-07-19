@@ -1,7 +1,7 @@
 Date: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
 
 ---
-Statut: 
+Statut: #
 Tags:
 # <% tp.file.title %>
 

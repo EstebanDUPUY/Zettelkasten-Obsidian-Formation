@@ -3,7 +3,7 @@ Date: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
 ---
 Note en bloc d'où provient l'idée: 
 
-Statut: 
+Statut: #
 Tags:
 # <% tp.file.title %>
 
