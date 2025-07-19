@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README /C'est quoi un Zettelkaten.md",
+                "file": "README /1-README FIRST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C'est quoi un Zettelkaten"
+              "title": "1-README FIRST"
             }
           }
         ]
@@ -161,10 +161,10 @@
   },
   "active": "85b8423046907fcf",
   "lastOpenFiles": [
-    "README /1-README FIRST.md",
     "README /C'est quoi un Zettelkaten.md",
-    "1-Bloc Notes/1-Bloc Notes.md",
     "README /Untitled.md",
+    "README /1-README FIRST.md",
+    "1-Bloc Notes/1-Bloc Notes.md",
     "README /Zettelkasten.md",
     "6-Modèles/[Modèle] -3- Notes Permanentes.md",
     "6-Modèles/[Modèle] -5- Index.md",
