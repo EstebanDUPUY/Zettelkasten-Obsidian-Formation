@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4f24d8eb4b90b22e",
+    "type": "split",
+    "children": [
+      {
+        "id": "af257175d5681828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b8423046907fcf",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "1-Bloc Notes"
+              },
+              "icon": "lucide-file",
+              "title": "1-Bloc Notes"
+            }
+          },
+          {
+            "id": "c08eeec42f796bc0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Dossiers Par Personnes/Estéban DUPUY"
+              },
+              "icon": "lucide-file",
+              "title": "Estéban DUPUY"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d677f063d834935",
+    "type": "split",
+    "children": [
+      {
+        "id": "08738a0ff3f12d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b188dad54b1ecfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ToDo",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "73e7162e115e528a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "606e81e289f57695",
+    "type": "split",
+    "children": [
+      {
+        "id": "beccd21eb9146b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae1c743c586458e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6-Modèles/[Modèle] -3- Notes Permanentes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de [Modèle] -3- Notes Permanentes"
+            }
+          },
+          {
+            "id": "d049dbd15c5d716a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6-Modèles/[Modèle] -3- Notes Permanentes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour [Modèle] -3- Notes Permanentes"
+            }
+          },
+          {
+            "id": "31e456a5aa018661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f106dc40309d0db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48575aa568732db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "73e7162e115e528a",
+  "lastOpenFiles": [
+    "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
+    "Dossiers Par Personnes/Dossiers Par Personnes.md",
+    "Dossiers Par Personnes/Estéban DUPUY",
+    "Dossiers Par Personnes",
+    "Dossiers Par Personnes/Estéban DUPUY/2025-07-19.md",
+    "6-Modèles/6-Modèles.md",
+    "Dossiers Par Personnes/Estéban DUPUY/Sans Titre.md",
+    "Dossiers Par Personnes/Sans titre.md",
+    "4-Tags/4-Tags.md",
+    "5-Index/5-Index.md",
+    "3-Notes Permanentes/3-Notes Permanentes.md",
+    "2-Contenu Consommé/2-Contenu Consommé.md",
+    "1-Bloc Notes/1-Bloc Notes.md",
+    "1-Bloc Notes/Sans titre.md",
+    "6-Modèles/[Modèle] -3- Notes Permanentes.md",
+    "6-Modèles/[Modèle] -2- Contenu Consommé.md",
+    "6-Modèles/[Modèle] -1- Notes en Bloc.md",
+    "6-Modèles/[Modèle] -4- Tag.md",
+    "6-Modèles/[Modèle] -5- Index.md",
+    "6-Modèles/[Modèle] -NE PAS UTILISER- Statuts.md",
+    "6-Modèles/.md",
+    "5-Index",
+    "Tags/Tags.md",
+    "Dossiers Numérotés/Dossiers Numérotés.md",
+    "1-Bloc Notes",
+    "Dossiers Numérotés/1-Bloc Notes/Sans titre.md",
+    "Dossiers Numérotés/1-Bloc Notes/Sans titre 1.md",
+    "Tags",
+    "Dossiers Numérotés/1-Bloc Notes/Sans Titre.md",
+    "Vault.md",
+    "Dossiers Numérotés",
+    "6-Modèles",
+    "3-Notes Permanentes",
+    "2-Contenu Consommé",
+    "4-Tags"
+  ]
+}

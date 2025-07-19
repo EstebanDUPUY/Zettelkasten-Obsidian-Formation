@@ -1,2 +1,0 @@
-# Zettelkasten-Obsidian-Formation
-
