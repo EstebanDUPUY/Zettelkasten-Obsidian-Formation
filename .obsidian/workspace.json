@@ -11,10 +11,12 @@
             "id": "85b8423046907fcf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "mk-space",
+              "state": {
+                "path": "Dossiers Par Personnes"
+              },
+              "icon": "lucide-file",
+              "title": "Dossiers Par Personnes"
             }
           }
         ]
@@ -154,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85b8423046907fcf",
+  "active": "cb84dcb7a53b1fc5",
   "lastOpenFiles": [
     "2-Contenu Consommé/2-Contenu Consommé.md",
     "3-Notes Permanentes/3-Notes Permanentes.md",
