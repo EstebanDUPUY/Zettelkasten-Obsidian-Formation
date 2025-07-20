@@ -18,8 +18,21 @@
               "icon": "lucide-file",
               "title": "Lucas-Boyer"
             }
+          },
+          {
+            "id": "930e4919d2d6bd5d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "6-Modèles"
+              },
+              "icon": "lucide-file",
+              "title": "6-Modèles"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e48575aa568732db",
+  "active": "930e4919d2d6bd5d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "6-Modèles/6-Modèles.md",
+    "6-Modèles/[Modèle] -1- Notes en Bloc.md",
     "Nouveau Document texte.txt",
     "Dossiers Par Personnes/Lucas-Boyer/Lucas-Boyer.md",
     "Vault.md",
@@ -173,7 +189,6 @@
     "Dossiers Par Personnes/Lucas-Boyer",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "1-Bloc Notes/1-Bloc Notes.md",
-    "conflict-files-obsidian-git.md",
     "2-Analyses Ressources/Scrumban(SAFe).md",
     "2-Analyses Ressources/Waterfall.md",
     "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
@@ -190,9 +205,7 @@
     "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
     "2-Sources D'info/2-Sources D'info.md",
     "2-Sources D'info/Waterfall.md",
-    "2-Sources D'info/Scrumban(SAFe).md",
     "2-Sources D'info",
-    "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
-    "0-Fichiers"
+    "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf"
   ]
 }
