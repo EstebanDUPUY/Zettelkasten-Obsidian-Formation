@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "af257175d5681828",
+        "id": "921a4be8ce287f21",
         "type": "tabs",
         "children": [
           {
-            "id": "85b8423046907fcf",
+            "id": "a5fe425777b0f564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Dossiers Par Personnes"
               },
               "icon": "lucide-file",
-              "title": "Qu'est-ce qu'une méthode de travail agile"
+              "title": "Dossiers Par Personnes"
             }
           }
         ]
@@ -41,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ToDo",
+                "query": "tag:#InProgress",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -159,13 +156,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85b8423046907fcf",
+  "active": "26262a1ea9360814",
   "lastOpenFiles": [
+    "Dossiers Par Personnes/Dossiers Par Personnes.md",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
+    "3-Notes Permanentes/3-Notes Permanentes.md",
+    "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
     "2-Analyses Ressources/2-Analyses Ressources.md",
     "2-Analyses Ressources/Waterfall.md",
     "README /Touches.md",
-    "3-Notes Permanentes/3-Notes Permanentes.md",
     "3-Notes Permanentes/fzqf.md",
     "6-Modèles/6-Modèles.md",
     "1-Bloc Notes/1-Bloc Notes.md",
@@ -177,7 +176,6 @@
     "2-Analyses Ressources/Méthodologie de gestion de projet.md",
     "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
-    "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
     "2-Analyses Ressources/Cycle en V.md",
     "2-Analyses Ressources/Différences entre les méthodologies.md",
     "2-Analyses Ressources/Scrum.md",
@@ -188,7 +186,6 @@
     "6-Modèles/[Modèle] -4- Tag.md",
     "0-Fichiers",
     "Dossiers Par Personnes/Estéban DUPUY/Test.md",
-    "Dossiers Par Personnes/Dossiers Par Personnes.md",
     "README ",
     "Dossiers Par Personnes/Estéban DUPUY",
     "Dossiers Par Personnes",
