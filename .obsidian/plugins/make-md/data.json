@@ -38,7 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Dossiers Par Personnes",
+    "//Dossiers Par Personnes/Dossiers Par Personnes/Estéban DUPUY",
+    "//1-Bloc Notes",
+    "//Dossiers Par Personnes/Dossiers Par Personnes/Lucas Boyer",
+    "//Dossiers Par Personnes/Dossiers Par Personnes/Lucas-Boyer"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -73,7 +78,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Zettelkasten Collectif",
+  "systemName": "Zettelkasten-Obsidian-Formation",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
