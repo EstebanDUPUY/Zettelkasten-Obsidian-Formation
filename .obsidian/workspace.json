@@ -18,8 +18,19 @@
               "icon": "lucide-file",
               "title": "Dossiers Par Personnes"
             }
+          },
+          {
+            "id": "bc133d0076935607",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#InProgress",
+                "query": "tag:#Other",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -156,8 +167,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26262a1ea9360814",
+  "active": "e48575aa568732db",
   "lastOpenFiles": [
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/Syllabus Niveau Fondation  v4.0 ISTQB.docx",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/RecapFiche de Révision .md",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/Syllabus ISTQB.md",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/Méthodologie Scrum.md",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/Méthodologie Scrum.docx",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/MissingNo.docx",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1/MissingNo.md",
+    "Dossiers Par Personnes/Lucas-Boyer/Lucas-Boyer.md",
+    "Dossiers Par Personnes/Lucas-Boyer/Semaine 1",
+    "Dossiers Par Personnes/Lucas-Boyer",
+    "conflict-files-obsidian-git.md",
     "Dossiers Par Personnes/Dossiers Par Personnes.md",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "3-Notes Permanentes/3-Notes Permanentes.md",
@@ -178,21 +200,9 @@
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
     "2-Analyses Ressources/Cycle en V.md",
     "2-Analyses Ressources/Différences entre les méthodologies.md",
-    "2-Analyses Ressources/Scrum.md",
-    "2-Analyses Ressources/Kanban.md",
-    "2-Analyses Ressources/Scrumban(SAFe).md",
-    "2-Analyses Ressources/Itérations.md",
-    "6-Modèles/[Modèle] -5- Index.md",
-    "6-Modèles/[Modèle] -4- Tag.md",
     "0-Fichiers",
-    "Dossiers Par Personnes/Estéban DUPUY/Test.md",
     "README ",
     "Dossiers Par Personnes/Estéban DUPUY",
-    "Dossiers Par Personnes",
-    "5-Index",
-    "1-Bloc Notes",
-    "Tags",
-    "Dossiers Numérotés",
-    "6-Modèles"
+    "Dossiers Par Personnes"
   ]
 }
