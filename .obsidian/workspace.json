@@ -45,9 +45,24 @@
               "icon": "lucide-file",
               "title": "https://www.make.md/static/GetStarted.md"
             }
+          },
+          {
+            "id": "ad6e25624248e386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,11 +199,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0998696ca5b33af",
+  "active": "ad6e25624248e386",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2-Analyses Ressources/Scrumban(SAFe).md",
+    "2-Analyses Ressources/Waterfall.md",
+    "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
+    "2-Analyses Ressources/Scrum.md",
+    "2-Analyses Ressources/Kanban.md",
+    "2-Analyses Ressources/Méthodologie de gestion de projet.md",
+    "2-Analyses Ressources/2-Analyses Ressources.md",
+    "2-Analyses Ressources/Itérations.md",
+    "2-Analyses Ressources/Différences entre les méthodologies.md",
+    "2-Analyses Ressources/Cycle en V.md",
+    "2-Analyses Ressources",
+    "6-Modèles/[Modèle] -2- Analyses Ressources.md",
     "Tags",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
-    "conflict-files-obsidian-git.md",
     "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
     "2-Sources D'info/2-Sources D'info.md",
     "2-Sources D'info/Waterfall.md",
@@ -203,23 +230,12 @@
     "2-Sources D'info",
     "6-Modèles/6-Modèles.md",
     "3-Notes Permanentes/3-Notes Permanentes.md",
-    "README /Touches.md",
-    "3-Notes Permanentes/fzqf.md",
-    "1-Bloc Notes/1-Bloc Notes.md",
-    "6-Modèles/[Modèle] -3- Notes Permanentes.md",
-    "6-Modèles/efqe.md",
-    "6-Modèles/[Modèle] -2- Contenu Consommé.md",
-    "6-Modèles/[Modèle] -1- Notes en Bloc.md",
-    "1-Bloc Notes/Sans titre.md",
-    "2-Contenu Consommé/Méthodologie de gestion de projet.md",
-    "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
     "0-Fichiers",
     "README ",
     "Dossiers Par Personnes/Estéban DUPUY",
     "Dossiers Par Personnes",
     "5-Index",
-    "1-Bloc Notes",
-    "Dossiers Numérotés"
+    "1-Bloc Notes"
   ]
 }
