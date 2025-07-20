@@ -11,15 +11,12 @@
             "id": "85b8423046907fcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "0-Fichiers"
               },
               "icon": "lucide-file",
-              "title": "To Do List"
+              "title": "0-Fichiers"
             }
           }
         ]
@@ -161,10 +158,13 @@
   },
   "active": "85b8423046907fcf",
   "lastOpenFiles": [
+    "0-Fichiers/0-Fichiers.md",
+    "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
+    "2-Contenu Consommé/2-Contenu Consommé.md",
+    "0-Fichiers",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "Dossiers Par Personnes/Estéban DUPUY/Test.md",
     "Dossiers Par Personnes/Dossiers Par Personnes.md",
-    "2-Contenu Consommé/2-Contenu Consommé.md",
     "3-Notes Permanentes/3-Notes Permanentes.md",
     "4-Tags/4-Tags.md",
     "5-Index/5-Index.md",
@@ -188,14 +188,10 @@
     "Dossiers Par Personnes/Estéban DUPUY",
     "Dossiers Par Personnes",
     "Dossiers Par Personnes/Estéban DUPUY/2025-07-19.md",
-    "Dossiers Par Personnes/Estéban DUPUY/Sans Titre.md",
-    "Dossiers Par Personnes/Sans titre.md",
     "5-Index",
     "1-Bloc Notes",
     "Tags",
     "Dossiers Numérotés",
-    "6-Modèles",
-    "3-Notes Permanentes",
-    "2-Contenu Consommé"
+    "6-Modèles"
   ]
 }
