@@ -27,4 +27,4 @@ Tags: [[Méthodologie]]
 
 ---
 # Références
-https://asana.com/fr/resources/waterfall-project-management-methodology
+- https://asana.com/fr/resources/waterfall-project-management-methodology

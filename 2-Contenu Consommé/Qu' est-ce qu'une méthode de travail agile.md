@@ -26,4 +26,4 @@ Tags: [[Méthodologie]]
 
 ---
 # Références
-https://asana.com/fr/resources/agile-methodology
+- https://asana.com/fr/resources/agile-methodology

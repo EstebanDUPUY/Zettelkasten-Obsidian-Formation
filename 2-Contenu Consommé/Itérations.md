@@ -19,4 +19,4 @@ Tags: [[Méthodologie]]
 
 ---
 # Références
-https://asana.com/fr/resources/iterative-process
+- https://asana.com/fr/resources/iterative-process

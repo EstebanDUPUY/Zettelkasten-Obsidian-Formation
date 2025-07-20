@@ -19,4 +19,4 @@ Tags:
 
 ---
 # Références
-https://asana.com/fr/resources/safe-agile-at-scale
+- https://asana.com/fr/resources/safe-agile-at-scale

@@ -19,4 +19,4 @@ Tags:
 
 ---
 # Références
-https://asana.com/fr/resources/waterfall-agile-kanban-scrum
+- https://asana.com/fr/resources/waterfall-agile-kanban-scrum

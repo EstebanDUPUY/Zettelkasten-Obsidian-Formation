@@ -113,4 +113,4 @@ Tags: [[Méthodologie]] / [[Organisation]]
 
 ---
 # Références
-https://asana.com/fr/resources/project-management-methodologies
+- https://asana.com/fr/resources/project-management-methodologies

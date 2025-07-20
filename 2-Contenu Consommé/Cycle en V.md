@@ -19,4 +19,4 @@ Tags:
 
 ---
 # Références
-https://asana.com/fr/resources/v-model
+- https://asana.com/fr/resources/v-model

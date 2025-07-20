@@ -19,4 +19,4 @@ Tags: [[Méthodologie]] / [[Organisation]]
 
 ---
 # Références
-https://asana.com/fr/resources/what-is-kanban
+- https://asana.com/fr/resources/what-is-kanban

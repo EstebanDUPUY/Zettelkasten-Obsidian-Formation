@@ -21,4 +21,7 @@ Tags:
 
 ---
 # Références
-`Note en bloc d'où provient l'idée:` 
+`Note d'où provient l'idée:`
+
+- 
+

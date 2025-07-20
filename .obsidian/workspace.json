@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Contenu Consommé/Scrum.md",
+                "file": "2-Contenu Consommé/Qu' est-ce qu'une méthode de travail agile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scrum"
+              "title": "Qu' est-ce qu'une méthode de travail agile"
             }
           }
         ]
@@ -53,7 +53,7 @@
             }
           },
           {
-            "id": "aeb2dd2a0552e3db",
+            "id": "94dddc1f80716178",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,15 +161,21 @@
   },
   "active": "85b8423046907fcf",
   "lastOpenFiles": [
-    "2-Contenu Consommé/Kanban.md",
-    "2-Contenu Consommé/Scrumban(SAFe).md",
-    "2-Contenu Consommé/Scrum.md",
     "2-Contenu Consommé/Cycle en V.md",
     "2-Contenu Consommé/Différences entre les méthodologies.md",
+    "2-Contenu Consommé/Scrum.md",
+    "2-Contenu Consommé/Kanban.md",
+    "2-Contenu Consommé/Scrumban(SAFe).md",
+    "2-Contenu Consommé/Itérations.md",
+    "6-Modèles/[Modèle] -5- Index.md",
+    "6-Modèles/[Modèle] -4- Tag.md",
+    "6-Modèles/[Modèle] -1- Notes en Bloc.md",
+    "6-Modèles/[Modèle] -2- Contenu Consommé.md",
+    "6-Modèles/[Modèle] -3- Notes Permanentes.md",
+    "6-Modèles/6-Modèles.md",
     "2-Contenu Consommé/Méthodologie de gestion de projet.md",
     "2-Contenu Consommé/Waterfall.md",
     "2-Contenu Consommé/Qu' est-ce qu'une méthode de travail agile.md",
-    "6-Modèles/6-Modèles.md",
     "2-Contenu Consommé/2-Contenu Consommé.md",
     "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
@@ -180,15 +186,9 @@
     "3-Notes Permanentes/3-Notes Permanentes.md",
     "4-Tags/4-Tags.md",
     "5-Index/5-Index.md",
-    "6-Modèles/[Modèle] -5- Index.md",
-    "6-Modèles/[Modèle] -4- Tag.md",
-    "6-Modèles/[Modèle] -1- Notes en Bloc.md",
-    "6-Modèles/[Modèle] -2- Contenu Consommé.md",
-    "6-Modèles/[Modèle] -3- Notes Permanentes.md",
     "6-Modèles/[Modèle] -NE PAS UTILISER- Statuts.md",
     "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
     "README /1-README FIRST.md",
-    "README /C'est quoi un Zettelkaten.md",
     "README ",
     "Dossiers Par Personnes/Estéban DUPUY",
     "Dossiers Par Personnes",
