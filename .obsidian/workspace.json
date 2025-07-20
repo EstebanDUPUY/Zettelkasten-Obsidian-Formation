@@ -11,12 +11,15 @@
             "id": "85b8423046907fcf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "2-Sources D'info"
+                "file": "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2-Sources D'info"
+              "title": "To Do List"
             }
           }
         ]
@@ -156,10 +159,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26262a1ea9360814",
+  "active": "85b8423046907fcf",
   "lastOpenFiles": [
-    "2-Sources D'info/2-Sources D'info.md",
-    "2-Sources D'info/Waterfall.md",
+    "2-Analyses Ressources/2-Analyses Ressources.md",
+    "2-Analyses Ressources/Waterfall.md",
     "README /Touches.md",
     "3-Notes Permanentes/3-Notes Permanentes.md",
     "3-Notes Permanentes/fzqf.md",
@@ -170,16 +173,16 @@
     "6-Modèles/[Modèle] -2- Contenu Consommé.md",
     "6-Modèles/[Modèle] -1- Notes en Bloc.md",
     "1-Bloc Notes/Sans titre.md",
-    "2-Sources D'info/Méthodologie de gestion de projet.md",
+    "2-Analyses Ressources/Méthodologie de gestion de projet.md",
     "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
-    "2-Sources D'info/Qu'est-ce qu'une méthode de travail agile.md",
-    "2-Sources D'info/Cycle en V.md",
-    "2-Sources D'info/Différences entre les méthodologies.md",
-    "2-Sources D'info/Scrum.md",
-    "2-Sources D'info/Kanban.md",
-    "2-Sources D'info/Scrumban(SAFe).md",
-    "2-Sources D'info/Itérations.md",
+    "2-Analyses Ressources/Qu'est-ce qu'une méthode de travail agile.md",
+    "2-Analyses Ressources/Cycle en V.md",
+    "2-Analyses Ressources/Différences entre les méthodologies.md",
+    "2-Analyses Ressources/Scrum.md",
+    "2-Analyses Ressources/Kanban.md",
+    "2-Analyses Ressources/Scrumban(SAFe).md",
+    "2-Analyses Ressources/Itérations.md",
     "6-Modèles/[Modèle] -5- Index.md",
     "6-Modèles/[Modèle] -4- Tag.md",
     "0-Fichiers",
