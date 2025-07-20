@@ -71,7 +71,7 @@ Tags: [[Méthodologie]] / [[Organisation]]
 > Bien que considérée comme une approche plus traditionnelle par certaines organisations modernes, cette méthode permet de créer un [plan de projet](https://asana.com/fr/resources/project-management-plan) transparent et planifié au millimètre.
 > 
 > **Pour qui ?** En raison de son caractère très détaillé, la méthodologie de projet Waterfall est idéale pour travailler sur des projets de grande envergure qui comportent de nombreuses parties prenantes.
-[[2-Contenu Consommé/Cycle en V.md|A lire: Comment fonctionne le cycle en V ? Définition et méthode]]
+[[Cycle en V|A lire: Comment fonctionne le cycle en V ? Définition et méthode]]
 						- " 2. La gestion de projet Waterfall" / / /
 ---
 > 3. Scrum
@@ -84,7 +84,7 @@ Tags: [[Méthodologie]] / [[Organisation]]
 > 
 > **Pour qui :** les équipes qui optent pour une approche Agile devraient également miser sur Scrum. En outre, les différents sprints sont gérés par de petites équipes, cette approche peut donc convenir aux équipes de toute taille.
 > 
-> À lire: [[2-Contenu Consommé/Différences entre les méthodologies.md|Waterfall, Agile, Kanban et Scrum : quelles différences ?]]
+> À lire: [[Différences entre les méthodologies|Waterfall, Agile, Kanban et Scrum : quelles différences ?]]
 > 						- "3. Scrum" / / / 
 ---
 > 4. Le management de projet Kanban

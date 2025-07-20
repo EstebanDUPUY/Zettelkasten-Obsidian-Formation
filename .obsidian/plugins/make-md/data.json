@@ -44,8 +44,12 @@
     "//spaces:/spaces:/",
     "//Dossiers Par Personnes/Dossiers Par Personnes/Estéban DUPUY",
     "//3-Notes Permanentes",
+    "//README ",
+    "//1-Bloc Notes",
+    "//2-Contenu Consommé",
+    "//0-Fichiers",
     "/",
-    "//README "
+    "//2-Sources D'info"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "4-Tags",
