@@ -11,43 +11,15 @@
             "id": "ad50f0729ac01499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Dossiers Par Personnes/Lucas Boyer"
               },
               "icon": "lucide-file",
-              "title": "To Do List"
-            }
-          },
-          {
-            "id": "3801aea874d18f66",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "f0998696ca5b33af",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "Lucas Boyer"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +156,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0998696ca5b33af",
+  "active": "e36726a602343f30",
   "lastOpenFiles": [
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Syllabus Niveau Fondation  v4.0 ISTQB.docx",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Syllabus ISTQB.md",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/RecapFiche de Révision .md",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Méthodologie Scrum.md",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Méthodologie Scrum.docx",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/MissingNo.md",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1/MissingNo.docx",
+    "Dossiers Par Personnes/Lucas Boyer/Semaine 1",
+    "Dossiers Par Personnes/Lucas Boyer/Lucas Boyer.md",
+    "Dossiers Par Personnes/Dossiers Par Personnes.md",
+    "Dossiers Par Personnes/Lucas Boyer",
+    "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
+    "1-Bloc Notes/1-Bloc Notes.md",
     "conflict-files-obsidian-git.md",
     "2-Analyses Ressources/Scrumban(SAFe).md",
     "2-Analyses Ressources/Waterfall.md",
@@ -200,27 +185,14 @@
     "2-Analyses Ressources",
     "6-Modèles/[Modèle] -2- Analyses Ressources.md",
     "Tags",
-    "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
     "2-Sources D'info/2-Sources D'info.md",
     "2-Sources D'info/Waterfall.md",
     "2-Sources D'info/Scrumban(SAFe).md",
     "2-Sources D'info/Scrum.md",
-    "2-Sources D'info/Qu'est-ce qu'une méthode de travail agile.md",
-    "2-Sources D'info/Méthodologie de gestion de projet.md",
-    "2-Sources D'info/Kanban.md",
-    "2-Sources D'info/Itérations.md",
-    "2-Sources D'info/Différences entre les méthodologies.md",
-    "2-Sources D'info/Cycle en V.md",
     "2-Sources D'info",
-    "6-Modèles/6-Modèles.md",
-    "3-Notes Permanentes/3-Notes Permanentes.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
     "0-Fichiers",
-    "README ",
-    "Dossiers Par Personnes/Estéban DUPUY",
-    "Dossiers Par Personnes",
-    "5-Index",
-    "1-Bloc Notes"
+    "README "
   ]
 }
