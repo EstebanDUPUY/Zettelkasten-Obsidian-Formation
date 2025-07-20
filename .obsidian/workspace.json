@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "To Do List"
             }
+          },
+          {
+            "id": "3801aea874d18f66",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "f0998696ca5b33af",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +78,7 @@
             }
           },
           {
-            "id": "57b2ddc86f80964f",
+            "id": "e36726a602343f30",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -159,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad50f0729ac01499",
+  "active": "f0998696ca5b33af",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Tags",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
+    "conflict-files-obsidian-git.md",
     "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
     "2-Sources D'info/2-Sources D'info.md",
     "2-Sources D'info/Waterfall.md",
@@ -188,14 +214,12 @@
     "2-Contenu Consommé/Méthodologie de gestion de projet.md",
     "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
-    "2-Contenu Consommé/Qu'est-ce qu'une méthode de travail agile.md",
     "0-Fichiers",
     "README ",
     "Dossiers Par Personnes/Estéban DUPUY",
     "Dossiers Par Personnes",
     "5-Index",
     "1-Bloc Notes",
-    "Tags",
     "Dossiers Numérotés"
   ]
 }
