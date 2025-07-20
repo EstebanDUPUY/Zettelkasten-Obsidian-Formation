@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "e36726a602343f30",
+            "id": "000d50461cfc7864",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930e4919d2d6bd5d",
+  "active": "c43665812538e51f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "6-Modèles/6-Modèles.md",
