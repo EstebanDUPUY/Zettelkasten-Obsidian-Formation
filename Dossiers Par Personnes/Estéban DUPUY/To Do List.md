@@ -29,7 +29,7 @@ Tags: [[Organisation ]]
 - [ ] Méthodes de travail agiles (Cycle en V, **Scrum**, Kanban, eXtreme Programming)
 	- [ ] [[Qu'est-ce qu'une méthode de travail agile]]
 	- [ ] Cycle en V
-	- [ ] [[2-Contenu Consommé/Scrum.md|Scrum]]
+	- [ ] [[Scrum|Scrum]]
 	- [ ] Kanban
 	- [ ] eXtreme Programming
 - [ ] Scrum

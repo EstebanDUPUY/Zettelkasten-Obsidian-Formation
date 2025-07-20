@@ -21,7 +21,7 @@ Tags: [[Méthodologie]]
 > 
 > Scrum est l’une des méthodologies Agile les plus connues. Vous faites donc partie d’une équipe Agile si vous utilisez Scrum. Cependant, la structure Scrum possède des rôles et systèmes supplémentaires pour aider les équipes à être agiles. En Scrum, comme en Agile, les équipes cherchent à se perfectionner constamment. Tandis qu’Agile s’apparente davantage à une philosophie ou une structure, Scrum est plus précis quant aux moyens qui permettent l’amélioration constante des équipes, avec notamment les sprints, réunions debout et rétrospectives.
 > 
-> La structure [[2-Contenu Consommé/Kanban.md|Kanban]] est aussi une sous-catégorie de la méthodologie Agile. Kanban une méthode visuelle de gestion des tâches et des processus continus. Ses tableaux vous permettent de visualiser et suivre le travail au fil des étapes d’un projet jusqu’à l’accomplissement de ce dernier. Souvent, les équipes qui utilisent la méthode Scrum s’appuient sur des tableaux Kanban. Cependant, cela reste facultatif dans la structure Scrum.
+> La structure [[Kanban|Kanban]] est aussi une sous-catégorie de la méthodologie Agile. Kanban une méthode visuelle de gestion des tâches et des processus continus. Ses tableaux vous permettent de visualiser et suivre le travail au fil des étapes d’un projet jusqu’à l’accomplissement de ce dernier. Souvent, les équipes qui utilisent la méthode Scrum s’appuient sur des tableaux Kanban. Cependant, cela reste facultatif dans la structure Scrum.
 > 						- "Scrum, Kanban ou Agile ?" / / /
 ---
 L’histoire de la méthode Scrum
