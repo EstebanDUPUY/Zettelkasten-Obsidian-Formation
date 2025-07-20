@@ -1,0 +1,29 @@
+# Syllabus Niveau Fondation  v4.0 ISTQB :"Analyse et conception des tests"
+
+## Analyse et conception des tests
+
+- Expliquer comment rédiger des User Stories en collaboration avec des développeurs et des représentants du métier.
+- Classer les différentes options pour la rédaction des critères d'acceptation
+- Utiliser le développement piloté par les tests d'acceptation (ATDD) pour dériver les cas de test.
+
+Chacune de ces techniques mentionné on un objectif particulier en ce qui concerne la détection des défauts tandis que les approches basées sur la collaboration en revanche est:
+
+Une approche de test axée sur la prévention des défauts par la collaboration entre les parties prenantes. Elle contient La rédaction collaborative de User Stories.
+
+## QU'EST CE QU'UNE 'user Story'
+
+Une User Story représente une caractéristique qui sera utile à l'utilisateur ou à l'acheteur d'un système ou d'un logiciel.
+
+- Elle se caractérise en 3 aspect essentiel nommés les 3 C :
+
+  - la "Carte" qui décrit une user story
+
+  - La "Conversion" qui dit comment il est utilisé
+
+  - La 'Confirmation" qui sont les critère d'acceptation (ce sont les conditions que doit remplir une implémentation de cette User Story pour être accepter par les partie prenante)
+
+- Plusieurs façon pour les rédiger  les 2 plus courante sont : orienté-scénario et orienter vers les règle
+
+- Le format le plus courant d'une User Story est : "En tant que [rôle], je veux que [objectif à atteindre], afin de pouvoir [valeur métier résultante pour le rôle]", suivi des critères d'acceptation.
+
+Développement piloté par les tests d'acceptation ou l'ATDD est une approche pilotée par les tests. Elles sont créés avant d'implementer la user story.
