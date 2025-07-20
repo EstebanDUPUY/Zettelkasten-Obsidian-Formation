@@ -42,7 +42,7 @@ Tags: [[Méthodologie]] / [[Organisation]]
 ---
 > 1. Agile, la gestion de projet itérative
 > 
-> **Concept :** la [[2-Contenu Consommé/Qu' est-ce qu'une méthode de travail agile.md|méthodologie Agile]] est l’un des processus de management de projet les plus courants. Et pour être tout à fait exact, il s’agit d’un principe même de la gestion de projet. 
+> **Concept :** la [[Qu'est-ce qu'une méthode de travail agile|méthodologie Agile]] est l’un des processus de management de projet les plus courants. Et pour être tout à fait exact, il s’agit d’un principe même de la gestion de projet. 
 > 
 > La méthode Agile :
 > 

@@ -15,9 +15,9 @@ Tags: [[Méthodologie]]
 ---
 > Scrum, Kanban ou Agile ?
 > 
-> Vous avez sûrement entendu parler de Scrum en complément d’autres méthodes comme Kanban ou [[2-Contenu Consommé/Qu' est-ce qu'une méthode de travail agile.md|Agile]]. Chacune de ces structures favorise à sa façon la collaboration et l’amélioration constante au sein des équipes. Cependant, elles sont très étroitement liées les unes aux autres dans le cadre de la méthodologie Lean.
+> Vous avez sûrement entendu parler de Scrum en complément d’autres méthodes comme Kanban ou [[Qu'est-ce qu'une méthode de travail agile|Agile]]. Chacune de ces structures favorise à sa façon la collaboration et l’amélioration constante au sein des équipes. Cependant, elles sont très étroitement liées les unes aux autres dans le cadre de la méthodologie Lean.
 > 
-> [[2-Contenu Consommé/Qu' est-ce qu'une méthode de travail agile.md|Agile]] est une philosophie de gestion de projet qui encourage l’amélioration constante au sein des équipes. Les équipes Agile misent sur un développement graduel par [[Itérations]] pour faire face au changement et gérer l’incertitude. Les méthodes Kanban et Scrum sont des sous-catégories de la méthodologie Agile. Il faut donc voir celle-ci comme une notion plus générale.
+> [[Qu'est-ce qu'une méthode de travail agile|Agile]] est une philosophie de gestion de projet qui encourage l’amélioration constante au sein des équipes. Les équipes Agile misent sur un développement graduel par [[Itérations]] pour faire face au changement et gérer l’incertitude. Les méthodes Kanban et Scrum sont des sous-catégories de la méthodologie Agile. Il faut donc voir celle-ci comme une notion plus générale.
 > 
 > Scrum est l’une des méthodologies Agile les plus connues. Vous faites donc partie d’une équipe Agile si vous utilisez Scrum. Cependant, la structure Scrum possède des rôles et systèmes supplémentaires pour aider les équipes à être agiles. En Scrum, comme en Agile, les équipes cherchent à se perfectionner constamment. Tandis qu’Agile s’apparente davantage à une philosophie ou une structure, Scrum est plus précis quant aux moyens qui permettent l’amélioration constante des équipes, avec notamment les sprints, réunions debout et rétrospectives.
 > 

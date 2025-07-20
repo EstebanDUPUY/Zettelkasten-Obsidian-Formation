@@ -3,7 +3,7 @@ Date: 2025-07-19 19:27
 ---
 Statut: #InProgress
 Tags: [[Méthodologie]] 
-# Qu' est-ce qu'une méthode de travail agile
+# Qu'est-ce qu'une méthode de travail agile
 ## Site Web Asana
 > Résumé
 > 
