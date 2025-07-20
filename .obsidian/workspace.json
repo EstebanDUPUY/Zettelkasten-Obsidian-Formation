@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Dossiers Par Personnes/Lucas Boyer"
+                "path": "Dossiers Par Personnes/Lucas Boyer/Semaine 1"
               },
               "icon": "lucide-file",
-              "title": "Lucas Boyer"
+              "title": "Semaine 1"
             }
           }
         ]
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e36726a602343f30",
+  "active": "ad50f0729ac01499",
   "lastOpenFiles": [
     "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Syllabus Niveau Fondation  v4.0 ISTQB.docx",
     "Dossiers Par Personnes/Lucas Boyer/Semaine 1/Syllabus ISTQB.md",
