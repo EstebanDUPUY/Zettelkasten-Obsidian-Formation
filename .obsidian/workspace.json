@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "0-Fichiers"
+                "path": "2-Contenu Consommé"
               },
               "icon": "lucide-file",
-              "title": "0-Fichiers"
+              "title": "2-Contenu Consommé"
             }
           }
         ]
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "794226aca6a8dbf4",
+            "id": "aeb2dd2a0552e3db",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -156,11 +156,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85b8423046907fcf",
+  "active": "a81b9e98f151a40f",
   "lastOpenFiles": [
+    "2-Contenu Consommé/2-Contenu Consommé.md",
     "0-Fichiers/0-Fichiers.md",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf",
-    "2-Contenu Consommé/2-Contenu Consommé.md",
     "0-Fichiers",
     "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "Dossiers Par Personnes/Estéban DUPUY/Test.md",
