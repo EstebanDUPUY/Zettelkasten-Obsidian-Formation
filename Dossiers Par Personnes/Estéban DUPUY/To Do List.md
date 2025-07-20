@@ -26,7 +26,7 @@ Tags: [[Organisation ]]
 - [ ] Testeur QA
 	- [ ] Qu'est-ce qu'un testeur QA
 	- [ ] Quels sont ses rôles
-- [ ] Méthodes de travail agiles (Cycle en V, **Scrum**, Kanban, eXtreme Programming)
+- [ ] Méthodes de travail (Cycle en V, **Scrum**, Kanban, eXtreme Programming)
 	- [ ] [[Qu'est-ce qu'une méthode de travail agile]]
 	- [ ] Cycle en V
 	- [ ] [[Scrum|Scrum]]
