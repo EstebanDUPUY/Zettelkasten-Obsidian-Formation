@@ -5,6 +5,7 @@ Statut: #ToDo
 Tags: [[Méthodologie]]
 # Scrum
 ## Site Web Asana
+
 > Qu’est-ce que la méthode Scrum ?
 > 
 > Scrum est une structure Agile qui facilite la collaboration au sein des équipes et les aide à réaliser des tâches à haute valeur ajoutée. Elle propose un schéma de valeurs, rôles et directives pour leur permettre de se concentrer sur chaque itération et de s’améliorer en continu.

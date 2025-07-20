@@ -42,9 +42,11 @@
     "//Dossiers Numérotés",
     "//spaces:",
     "//spaces:/spaces:/",
-    "//6-Modèles",
     "//Dossiers Par Personnes/Dossiers Par Personnes/Estéban DUPUY",
-    "/"
+    "//3-Notes Permanentes",
+    "//Dossiers Par Personnes",
+    "/",
+    "//2-Contenu Consommé"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "4-Tags",
