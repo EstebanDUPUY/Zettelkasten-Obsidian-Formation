@@ -11,12 +11,15 @@
             "id": "ad50f0729ac01499",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Dossiers Par Personnes/Lucas Boyer"
+                "file": "2025-07-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lucas Boyer"
+              "title": "2025-07-21"
             }
           },
           {
@@ -168,10 +171,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de3f32897411373c",
+  "active": "ad50f0729ac01499",
   "lastOpenFiles": [
+    "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
+    "2025-07-21.md",
     "Dossiers Par Personnes/Lucas Boyer/Lucas Boyer.md",
+    "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
+    "0-Fichiers/0-Fichiers.md",
+    "5-Index/5-Index.md",
     "6-Modèles/6-Modèles.md",
+    "Dossiers Par Personnes/Dossiers Par Personnes.md",
+    "Dossiers Par Personnes/Estéban DUPUY/.md",
     "conflict-files-obsidian-git.md",
     "6-Modèles/[Modèle] -1- Notes en Bloc.md",
     "Nouveau Document texte.txt",
@@ -184,9 +194,7 @@
     "Dossiers Par Personnes/Lucas Boyer/Semaine 1/MissingNo.md",
     "Dossiers Par Personnes/Lucas Boyer/Semaine 1/MissingNo.docx",
     "Dossiers Par Personnes/Lucas Boyer/Semaine 1",
-    "Dossiers Par Personnes/Dossiers Par Personnes.md",
     "Dossiers Par Personnes/Lucas Boyer",
-    "Dossiers Par Personnes/Estéban DUPUY/To Do List.md",
     "1-Bloc Notes/1-Bloc Notes.md",
     "2-Analyses Ressources/Scrumban(SAFe).md",
     "2-Analyses Ressources/Waterfall.md",
@@ -197,13 +205,8 @@
     "2-Analyses Ressources/2-Analyses Ressources.md",
     "2-Analyses Ressources/Itérations.md",
     "2-Analyses Ressources/Différences entre les méthodologies.md",
-    "2-Analyses Ressources/Cycle en V.md",
     "2-Analyses Ressources",
-    "6-Modèles/[Modèle] -2- Analyses Ressources.md",
     "Tags",
-    "Dossiers Par Personnes/Estéban DUPUY/Estéban DUPUY.md",
-    "2-Sources D'info/2-Sources D'info.md",
-    "2-Sources D'info/Waterfall.md",
     "2-Sources D'info",
     "0-Fichiers/ISTQB_CTFL_Syllabus-v4.0_FR_1.0.pdf"
   ]
