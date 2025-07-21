@@ -31,8 +31,7 @@
               "title": "Lucas Boyer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             }
           },
           {
-            "id": "ec417c648e32e7db",
+            "id": "db3c10c9556c37f0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a2ddbb030946167",
+  "active": "de3f32897411373c",
   "lastOpenFiles": [
     "Dossiers Par Personnes/Lucas Boyer/Lucas Boyer.md",
     "6-Modèles/6-Modèles.md",
